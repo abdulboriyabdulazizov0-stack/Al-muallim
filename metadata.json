@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Al-Mu'allim: Arabic & Tajweed Learning Platform",
+  "description": "A comprehensive educational platform for learning Arabic grammar and Tajweed rules, featuring structured courses, video lessons, and an AI-powered tutor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
